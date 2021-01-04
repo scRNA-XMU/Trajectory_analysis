@@ -1,2 +1,2 @@
 # Trajectory_analysis
-RNA velocity
+RNA velocity (scVelo)
